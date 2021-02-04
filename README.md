@@ -1,2 +1,2 @@
 # Guia-Estelar
-Guia Estelar - Rochetseat
+Guia Estelar - Rocketseat
